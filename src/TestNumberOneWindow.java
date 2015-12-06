@@ -1,4 +1,5 @@
 import javax.swing.JFrame;
+import javax.swing.Timer;
 
 public class TestNumberOneWindow {
 	public static void main(String[] args){
